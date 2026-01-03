@@ -38,3 +38,4 @@ backend/database/*.sqlite-journal
 # Temporary files
 *.tmp
 *.temp
+backend/composer.phar
