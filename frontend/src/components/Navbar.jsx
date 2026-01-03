@@ -19,7 +19,7 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-2">
           <img src={logoGaspul} alt="Gaspul Logo" className="h-10" />
           <span className="text-xl font-bold tracking-wide text-gray-800">
-            ScoreHub
+            ScoreHAB
           </span>
         </Link>
 

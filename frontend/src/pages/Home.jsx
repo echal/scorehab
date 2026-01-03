@@ -23,6 +23,9 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
+      <div className="flex justify-center mb-6">
+        <img src="/hab80.png" alt="HAB 80" className="max-w-full h-auto" />
+      </div>
       <h1 className="text-2xl md:text-3xl font-bold mb-6">Event</h1>
 
       {loading ? (
